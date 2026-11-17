@@ -1,0 +1,4 @@
+# Data Model
+
+- Entity: Example
+- Attributes: id, name, description
